@@ -1,4 +1,4 @@
-flask==2.0.1
+flask
 torch==2.2.2  # Updated to a version compatible with Python 3.12
 ultralytics==8.0.0
 pillow==10.3.0  # Updated version
