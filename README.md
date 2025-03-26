@@ -1,1 +1,1 @@
-# Cookify-app
+# cookify
